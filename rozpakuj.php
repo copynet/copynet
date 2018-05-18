@@ -1,0 +1,1 @@
+<?php system("unzip copynet.zip"); ?>
